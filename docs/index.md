@@ -1,13 +1,11 @@
 # Azure-OSS
 
-@todo
-
 ## Installation
 
 Azure-OSS requires PHP >= 8.1.
 
 ```shell
-composer require azure-oss/storage-php
+composer require azure-oss/azure-storage-php
 ```
 
 ## License

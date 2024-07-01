@@ -1,8 +1,8 @@
 site_name: Azure-OSS
 site_description: Documentation for Azure-OSS
 
-repo_name: Azure-OSS/storage-php
-repo_url: https://github.com/Azure-OSS/storage-php
+repo_name: Azure-OSS
+repo_url: https://github.com/Azure-OSS
 edit_uri: https://github.com/Azure-OSS/azure-oss.github.io/edit/main/docs/
 
 theme:
@@ -30,7 +30,7 @@ theme:
         icon: material/brightness-4
         name: Switch to system preference
   favicon: images/favicon.ico
-  logo: images/logo.svg
+  logo: https://cdnlogo.com/logos/a/12/azure.svg
   icon:
     repo: fontawesome/brands/github
   language: en
@@ -53,6 +53,8 @@ plugins:
 
 nav:
   - index.md
+  - 'Storage':
+      - storage/blob.md
 
 markdown_extensions:
   - admonition: { }
