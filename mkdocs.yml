@@ -54,7 +54,10 @@ plugins:
 nav:
   - index.md
   - 'Storage':
-      - storage/blob.md
+      - storage/get-started.md
+      - 'Services':
+        - storage/services/blob.md
+      - storage/flysystem.md
 
 markdown_extensions:
   - admonition: { }

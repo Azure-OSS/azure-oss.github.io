@@ -1,12 +1,10 @@
-# Azure-OSS
+# Welcome
 
-## Installation
+We provide proper PHP integration for Azure service since [Microsoft dropped their SDK support on several of their services](https://azure.microsoft.com/en-us/updates/retirement-notice-the-azure-storage-php-client-libraries-will-be-retired-on-17-march-2024/).
 
-Azure-OSS requires PHP >= 8.1.
+## Services
 
-```shell
-composer require azure-oss/azure-storage-php
-```
+- [Azure Storage](./storage/installation.md)
 
 ## License
 
