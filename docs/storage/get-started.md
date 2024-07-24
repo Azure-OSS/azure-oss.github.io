@@ -15,7 +15,7 @@ From your project directory, install packages for the Azure Storage SDK.
 Install the library using [composer](https://getcomposer.org/)
 
 ```shell
-composer require azure-oss/azure-storage-php
+composer require azure-oss/storage
 ```
 
 ## Authorize access
