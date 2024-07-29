@@ -6,7 +6,7 @@ library has a native adapter available to integrate with the Azure-OSS Storage S
 ## Installation
 
 ```shell
-composer require league/flysystem-azure-oss:^1.0
+composer require azure-oss/storage-blob-flysystem
 ```
 
 ## Usage
