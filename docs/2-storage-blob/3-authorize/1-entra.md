@@ -7,6 +7,10 @@ Use Microsoft Entra ID when you do not want to use account keys.
 
 This guide uses [`azure-oss/identity`](https://github.com/Azure-OSS/azure-identity-php) (repository: `azure-identity-php`) for token acquisition.
 
+:::warning
+This feature is not released yet.
+:::
+
 ## Install
 
 ```shell

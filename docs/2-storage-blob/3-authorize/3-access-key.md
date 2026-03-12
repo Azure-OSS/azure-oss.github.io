@@ -5,10 +5,6 @@ title: Access Key
 
 Access key authentication is the default when you connect using a storage account connection string.
 
-:::warning
-This feature is not released yet.
-:::
-
 ## Option 1: Connection String (Recommended)
 
 ```php
