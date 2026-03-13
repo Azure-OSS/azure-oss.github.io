@@ -8,6 +8,8 @@ title: Quickstart
 - A storage account connection string
 - An existing blob container (for example: `quickstart`)
 
+If you want to authenticate without account keys (recommended for production), see [Microsoft Entra ID](../2-storage-blob/3-authorize/1-entra.md).
+
 For local testing you can export:
 
 ```bash
